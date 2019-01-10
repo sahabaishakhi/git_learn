@@ -1,0 +1,9 @@
+1. Create Git repository on github and initialize with license and readme files
+2. Clone your github remote repository
+3. Create a text file, edit a few lines
+4. Add file to index
+5. Create another file and add a few lines
+6. Add files to index
+7. Commit changes to head with a commit message
+8. Push changes to master branch on your github
+9. Share the github repo link
