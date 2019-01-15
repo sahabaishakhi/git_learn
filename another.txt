@@ -8,6 +8,7 @@ Adding to the index means proposing changes using command git add <filename> or 
 To commit the changes git commit -m "Commit message". Now the file is committed to the HEAD but not to the remote repository yet
 Changes are in the HEAD of the local repository. To send changes to remote repository, execute git push origin master
 
+<<<<<<< HEAD
 If you have cloned an existing repo and want to connect your repo to a remote server, you need to add it with
 git remote add origin <server>
 Now you're able to push changes to the selected remote server
@@ -25,3 +26,6 @@ push branch to remote repository 'git push origin <branch>'
 
 To update your local repo to the newest commit execute 'git pull' in wd to fetch and merge remote changes
 To merge another branch into your active branch (master) use 'git merge <master>'
+=======
+edit
+>>>>>>> feature_x
