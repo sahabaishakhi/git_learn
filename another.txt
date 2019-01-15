@@ -7,3 +7,5 @@ A repository has 3 trees, namely:
 Adding to the index means proposing changes using command git add <filename> or git add *
 To commit the changes git commit -m "Commit message". Now the file is committed to the HEAD but not to the remote repository yet
 Changes are in the HEAD of the local repository. To send changes to remote repository, execute git push origin master
+
+edit
